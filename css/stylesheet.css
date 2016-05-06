@@ -1,0 +1,78 @@
+@charset "utf-8";
+/* CSS Document */
+
+body{ 
+background-color:#E5A7A8;
+} 
+
+.navbar{ 
+background-color:#BDB0B0;
+} 
+
+.required{ 
+color: red;
+font-size: large;
+}
+
+legend{ 
+font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
+font-size: 3em;
+text-shadow: black 0em .1em .2em;
+} 
+
+.btn{ 
+background-color:#AE2DF0;
+color: black;
+} 
+.btn:hover{ 
+background-color: white;
+
+} 
+.white{ 
+color: white;
+text-shadow: black 0.2em 0.2em 0.2em;
+} 
+
+.carousel-inner .item{ 
+height: 42em;
+} 
+
+.page-header{ 
+font-family:Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", sans-serif; 
+} 
+  
+.text{ 
+font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+color: #3B3B3B;
+font-size: 1.2em;
+} 
+
+.link{
+opacity: 0.9;
+width: 70%;
+margin-top: 5%;
+}
+
+.link:hover{ 
+opacity: 1;
+} 
+
+ol{ 
+list-style-type:none;
+}
+
+a, a:hover{ 
+text-decoration: none;
+color: #72239A;
+font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+font-size: 1.2em;
+} 
+
+a{ 
+color: #000000
+} 
+
+.size{
+width: auto;
+height: 20em;	
+} 
